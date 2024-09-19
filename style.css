@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
  }
+ #About{
+
+ }
  header{
     display: flex;
     flex-direction: row; 
@@ -35,9 +38,19 @@
   }
   .mar {
    margin: 0;
+   align-content: center
   }
   .bg{
    background-color: ;
+  }
+  .Text1{
+text-align: center;
+
+;
+  }
+  .abc{
+   padding-left: 100px;
+   padding-left: 100px;
   }
 
   
